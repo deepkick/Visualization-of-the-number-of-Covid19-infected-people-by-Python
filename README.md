@@ -21,21 +21,7 @@ No.|タイトル|nbviewer|Open in Colab
 
 ![Number of infected persons per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20210622/01_Number_of_infected_persons_per_day_by_pref_20210622.png?raw=true "Number of infected persons per day by prefecture")
 
-![Number of deaths per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20210622/02_Number_of_deaths_per_day_by_pref_20210622.png?raw=true "Number of deaths per day by prefecture")
-
-上記グラフで注意が必要なのは、ひとつ突出している例外的なデータの存在である。調べてみると、2021年5月18日の兵庫県のデータであり、詳細は下記ニュースを参考にするとよい。
-
-https://www3.nhk.or.jp/news/html/20210518/k10013037951000.html
-
-```
-兵庫県は18日、新型コロナウイルスに感染していた129人の死亡が確認されたと発表しました。
-
-このうち121人は、神戸市がことし3月26日から5月17日までの1か月半余りの期間に亡くなり、これまで計上していなかった人を、18日、まとめて発表したものです。
-
-以上、NHKニュースより引用
-```
-
-とのことなので、この兵庫県のデータについては実態を反映していないと思われるが、ひとまずデータ通りに出力している。1日の死者数としては適切でないため、外れ値としての処理が必要であろう。
+![Number of deaths per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20210622/02_Number_of_deaths_per_day_by_pref_new_20210622.png?raw=true "Number of deaths per day by prefecture")
 
 ![Cumulative number of infected persons per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20210622/03_Cumulative_number_of_infected_persons_per_day_by_pref_20210622.png?raw=true "Cumulative number of infected persons per day by prefecture")
 
