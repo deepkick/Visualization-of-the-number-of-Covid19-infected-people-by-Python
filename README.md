@@ -11,6 +11,7 @@
 タイトル|Link|説明
 -----|--------|--------|
 NHK 特設サイト 新型コロナ データ一覧 |<a href="https://www3.nhk.or.jp/news/special/coronavirus/data-widget/">https://www3.nhk.or.jp/news/special/coronavirus/data-widget/</a>| NHKによるまとめ　新型コロナウイルス関連データ・ダウンロードサービス|
+東京都福祉保健局 新型コロナウイルス感染症検査陽性者の状況 |<a href="https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000089/resource/54996023-7255-45c5-b5b0-60458d874715">https://catalog.data.metro.tokyo.lg.jp/dataset/</a>| 東京都 新型コロナウイルス感染症検査陽性者の状況|
 
 ### 01. 日本国内の感染状況
 
@@ -26,3 +27,16 @@ No.|タイトル|nbviewer|Open in Colab
 ![Cumulative number of infected persons per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20210806/03_Cumulative_number_of_infected_persons_per_day_by_pref_20210806.png?raw=true "Cumulative number of infected persons per day by prefecture")
 
 ![Cumulative number of deaths per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20210806/04_Cumulative_number_of_deaths_per_day_by_pref_20210806.png?raw=true "Cumulative number of deaths per day by prefecture")
+
+#### 02. 東京都の自宅療養者数・入院者数・その他人数の比較
+No.|タイトル|nbviewer|Open in Colab
+-----|--------|--------|-------------
+01-02|東京都の自宅療養者数・入院者数・その他人数|[![nbviewer](https://camo.githubusercontent.com/bfeb5472ee3df9b7c63ea3b260dc0c679be90b97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e7376673f636f6c6f72423d66333736323626636f6c6f72413d346434643464)](https://nbviewer.jupyter.org/github/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/02_Tokyo_Number_of_People_Convalescing_Home.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/02_Tokyo_Number_of_People_Convalescing_Home.ipynb)
+
+![Number of people receiving home treatment in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/01_Number_of_people_receiving_home_treatment_in_Tokyo_20210811.png?raw=true "Number of people receiving home treatment in Tokyo, 20210811")
+
+![Number of people hospitalized in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/02_Number_of_people_hospitalized_in_Tokyo_20210811.png?raw=true "Number of people hospitalized in Tokyo, 20210811")
+
+![Status of infected persons in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/03A_Status_of_infected_persons_in_Tokyo_20210811.png?raw=true "Status of infected persons in Tokyo, 20210811")
+
+![Status of infected persons in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/03B_Status_of_infected_persons_in_Tokyo_20210811.png?raw=true "Status of infected persons in Tokyo, 20210811")
