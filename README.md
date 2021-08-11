@@ -35,8 +35,10 @@ No.|タイトル|nbviewer|Open in Colab
 
 ![Number of people receiving home treatment in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/01_Number_of_people_receiving_home_treatment_in_Tokyo_20210811.png?raw=true "Number of people receiving home treatment in Tokyo, 20210811")
 
-![Number of people hospitalized in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/02_Number_of_people_hospitalized_in_Tokyo_20210811.png?raw=true "Number of people hospitalized in Tokyo, 20210811")
+![Number of Positives in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/02_Number_of_positives_in_Tokyo_20210811.png?raw=true "Number of Positives in Tokyo, 20210811")
 
-![Status of infected persons in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/03A_Status_of_infected_persons_in_Tokyo_20210811.png?raw=true "Status of infected persons in Tokyo, 20210811")
+![Number of people hospitalized in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/03_Number_of_people_hospitalized_in_Tokyo_20210811.png?raw=true "Number of people hospitalized in Tokyo, 20210811")
 
-![Status of infected persons in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/03B_Status_of_infected_persons_in_Tokyo_20210811.png?raw=true "Status of infected persons in Tokyo, 20210811")
+![Status of infected persons in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/04_Status_of_infected_persons_in_Tokyo_20210811.png?raw=true "Status of infected persons in Tokyo, 20210811")
+
+![Status of infected persons in Tokyo, 20210811](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/tokyo_dataset/20210811/05_Status_of_infected_persons_in_Tokyo_20210811.png?raw=true "Status of infected persons in Tokyo, 20210811")
