@@ -23,7 +23,7 @@ No.|タイトル / Title|nbviewer|Open in Colab
 -----|--------|--------|-------------
 01-01|都道府県別の1日ごとの感染者数・死者数 / Number of infections and deaths per day by prefecture|[![nbviewer](https://camo.githubusercontent.com/bfeb5472ee3df9b7c63ea3b260dc0c679be90b97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656e6465722d6e627669657765722d6f72616e67652e7376673f636f6c6f72423d66333736323626636f6c6f72413d346434643464)](https://nbviewer.jupyter.org/github/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/01_Number_of_infected_persons_per_day_by_pref.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/01_Number_of_infected_persons_per_day_by_pref.ipynb)
 
-![Number of infected persons per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20220106/01_Number_of_infected_persons_per_day_by_pref_20220106.png?raw=true "Number of infected persons per day by prefecture")
+![Number of infected persons per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20220115/01_Number_of_infected_persons_per_day_by_pref_20220106.png?raw=true "Number of infected persons per day by prefecture")
 
 ![Number of deaths per day by prefecture](https://github.com/deepkick/Visualization-of-the-number-of-Covid19-infected-people-by-Python/blob/main/20220106/02_Number_of_deaths_per_day_by_pref_new_20220106.png?raw=true "Number of deaths per day by prefecture")
 
